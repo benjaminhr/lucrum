@@ -1,0 +1,23 @@
+{
+  "name": "html5up-fractal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhr/lucrum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhr/lucrum/issues"
+  },
+  "homepage": "https://github.com/benjaminhr/lucrum#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
